@@ -1,7 +1,4 @@
-# pi-memory
-A pi based mapping system that utilizes pi's inherent binary strings for coordinate mapping.
-
-## 📐 PI\_BINARY\_SPIRAL\_MEMORY
+# PI-MEMORY
 
 **Mathematical & Scientific Foundation**
 
