@@ -111,7 +111,7 @@ $$
 
 ---
 
-## 🔁 All Together: System Behavior
+## All Together: System Behavior
 
 Each Pi-derived 4-bit sequence enters the memory system like a **seed**. As it flows through the ticker's rhythm and into the spiral, it receives:
 
