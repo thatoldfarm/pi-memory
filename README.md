@@ -1,5 +1,7 @@
 # PI-MEMORY
 
+[33-bit pi binary string to QEAC Steps:](https://github.com/thatoldfarm/pi-memory/blob/main/README.md#33bit%CF%80spigotqeac-pipeline)
+
 **Mathematical & Scientific Foundation**
 
 ---
