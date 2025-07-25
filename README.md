@@ -151,7 +151,7 @@ These values dictate how memory:
 
 ---
 
-# README — 33‑Bit π Spigot → QEAC Pipeline
+#  33‑Bit π Spigot → QEAC Pipeline
 
 *A self‑contained build guide.*
 
